@@ -1,0 +1,15 @@
+fastapi
+uvicorn[standard]
+pydantic>=2
+pandas
+pyarrow
+numpy
+scikit-learn
+lightgbm
+joblib
+transformers
+datasets
+peft
+accelerate
+pytest
+httpx

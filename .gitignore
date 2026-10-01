@@ -1,0 +1,17 @@
+# large / regenerable files - never commit these
+data/
+processed/
+models/
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+
+# editor / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db*.zip
